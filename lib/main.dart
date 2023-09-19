@@ -1,3 +1,6 @@
+// EJ Prince D. Sevilleno: To be calm is the highest achievement of self
+// Phoebe Grace C. Juayong: Naevis We Love You
+
 import 'package:flutter/material.dart';
 
 void main() {
